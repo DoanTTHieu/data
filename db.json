@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Ha",
+      "last_name": "Huynh",
+      "email": "Ha@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Quynh",
+      "last_name": "Nguyen",
+      "email": "Quynh@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Hai",
+      "last_name": "Tran",
+      "email": "Hai@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Nga",
+      "last_name": "Nguyen",
+      "email": "Nga@gmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Vi",
+      "last_name": "Bui",
+      "email": "Vi@gmail.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Hue",
+      "last_name": "Doan",
+      "email": "Hue@gmail.com"
+    }
+  ]
+}
